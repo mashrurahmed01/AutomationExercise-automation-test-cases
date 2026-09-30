@@ -1,0 +1,12 @@
+# Copy this file to /src/main/resources, fill in real values and rename it to config.properties
+# config.properties is listed in .gitignore and will NOT be pushed to GitHub.
+login.email=your-registered-email@example.com
+login.password=your-password
+# The Name you entered at sign-up, shown as "Logged in as <name>"
+login.name=username
+base.url=https://www.automationexercise.com/
+
+#browser details
+browser=chrome
+headless=false
+explicit.wait.seconds=15
